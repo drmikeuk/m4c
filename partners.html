@@ -1,0 +1,125 @@
+---
+layout: landing
+title: Partners
+nav: "yes"
+sortTitle: "2"
+customjs:
+  - /vendor/isotope.pkgd.min.js
+  - /assets/partners.isotope.js
+---
+
+
+
+<div class="container-fluid">
+
+  <h2>Partners</h2>
+
+  <!-- Filters etc -->
+  <div class="row padrow">
+
+    <input type="text" class="quicksearch" placeholder="Search..." />
+
+    <div class="filters">
+
+      <!-- Locations: Birmingham, Coventry, Leicester, London, Nottingham, Other -->
+      <div class="btn-group filter-button-group" data-filter-group="label" aria-label="Filter by category">
+        <button type="button" class="btn btn-primary" data-filter="*">All</button>
+        <button type="button" class="btn " data-filter=".Birmingham">Birmingham</button>
+        <button type="button" class="btn " data-filter=".Coventry">Coventry</button>
+        <button type="button" class="btn " data-filter=".Leicester">Leicester</button>
+        <button type="button" class="btn " data-filter=".London">London</button>
+        <button type="button" class="btn " data-filter=".Nottingham">Nottingham</button>
+        <button type="button" class="btn " data-filter=".Other">Other</button>
+      </div>
+
+    </div> <!-- end filters -->
+
+    <!-- Count
+    <div class="filter-count"></div> -->
+
+  </div>
+
+
+
+  <!-- CARDS -->
+  <div class="grid clearfix">
+
+  <!--  Cards2: from CSV file  <i class="fas fa-external-link-alt"></i>  -->
+  {% for card in site.data.partners %}
+    <div class="card {{ card.cityfilter }} ">
+      <img src="{{card.thumb | prepend: "/m4c/images/" }}" class="card-img-top" alt="thumbnail">
+      <div class="card-body">
+        <h4 class="card-title">{{ card.name }}</h4>
+        <p class="category">{{ card.city }}</p>
+        <p class="card-text">{{ card.description }}</p>
+
+      </div>
+      <div class="card-footer icons">
+{% if card.link %}
+        <a href='#'><span class="fa-stack fa-2x">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fas fa-link fa-stack-1x fa-inverse"></i>
+          </span></a>
+{% endif %}
+{% if card.facebook %}
+        <a href='#'><span class="fa-stack fa-2x">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+          </span></a>
+{% endif %}
+{% if card.twitter %}
+        <a href='#'><span class="fa-stack fa-2x">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+          </span></a>
+{% endif %}
+
+      </div>
+    </div>
+  {% endfor %}
+
+
+  </div> <!-- end grid -->
+
+
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-6 col-lg-4 col-xl-3" style="border: 1px solid blue">
+        stuff
+      </div>
+
+      <div class="col-md-6 col-lg-4 col-xl-3" style="border: 1px solid blue">
+        stuff
+      </div>
+
+      <div class="col-md-6 col-lg-4 col-xl-3" style="border: 1px solid blue">
+        stuff
+      </div>
+
+      <div class="col-md-6 col-lg-4 col-xl-3" style="border: 1px solid blue">
+        stuff
+      </div>
+
+      <div class="col-md-6 col-lg-4 col-xl-3" style="border: 1px solid blue">
+        stuff
+      </div>
+
+      <div class="col-md-6 col-lg-4 col-xl-3" style="border: 1px solid blue">
+        stuff
+      </div>
+
+      <div class="col-md-6 col-lg-4 col-xl-3" style="border: 1px solid blue">
+        stuff
+      </div>
+
+      <div class="col-md-6 col-lg-4 col-xl-3" style="border: 1px solid blue">
+        stuff
+      </div>
+
+    </div>
+  </div>
+
+
+
+</div>

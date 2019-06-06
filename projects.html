@@ -1,0 +1,69 @@
+---
+layout: landing
+title: Find a project
+customjs:
+  - /vendor/isotope.pkgd.min.js
+  - /assets/projects.isotope.js
+---
+
+<div class="container-fluid">
+
+  <h2>Find a project</h2>
+
+  <p><b>Collaborative Doctoral Awards</b> where you apply for advertised projects co-designed between an M4C university and an external partner organisation</p>
+
+  <!-- Filters etc -->
+  <div class="row padrow">
+
+    <input type="text" class="quicksearch" placeholder="Search..." />
+
+    <div class="filters">
+
+      <!-- Universities:  -->
+      <div class="btn-group filter-button-group" data-filter-group="label" aria-label="Filter by category">
+        <button type="button" class="btn btn-primary" data-filter="*">All</button>
+        <button type="button" class="btn " data-filter=".UniversityofBirmingham">Birmingham</button>
+        <button type="button" class="btn " data-filter=".BirminghamCityUniversity">Birmingham City</button>
+        <button type="button" class="btn " data-filter=".CoventryUniversity">Coventry</button>
+        <button type="button" class="btn " data-filter=".DeMontfortUniversity">De Montfort</button>
+        <button type="button" class="btn " data-filter=".UniversityofLeicester">Leicester</button>
+        <button type="button" class="btn " data-filter=".UniversityofNottingham">Nottingham</button>
+        <button type="button" class="btn " data-filter=".NottinghamTrentUniversity">Nottingham Trent</button>
+        <button type="button" class="btn " data-filter=".UniversityofWarwick">Warwick</button>
+      </div>
+
+    </div> <!-- end filters -->
+
+    <!-- Count
+    <div class="filter-count"></div> -->
+
+  </div>
+
+
+
+  <!-- CARDS -->
+  <div class="grid clearfix">
+
+  <!--  Cards2: from CSV file  <i class="fas fa-external-link-alt"></i>  -->
+  {% for card in site.data.projects %}
+    <div class="card {{ card.unifilter }} ">
+      <img src="{{card.thumb | prepend: "/m4c/images/" }}" class="card-img-top" alt="thumbnail">
+      <div class="card-body">
+        <h4 class="card-title">{{ card.foo }}</h4>
+        <p class="category">{{ card.uni }}</p>
+        <p class="card-text">Lead academic: {{ card.leadacademic }}</p>
+        <p class="card-text">Partner: {{ card.partner }}</p>
+
+      </div>
+      <div class="card-footer">
+
+        <a href='#' class="btn btn-secondary">Download details <i class="fas fa-download"></i></a>
+
+      </div>
+    </div>
+  {% endfor %}
+
+
+  </div> <!-- end grid -->
+
+</div>
