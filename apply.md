@@ -40,7 +40,19 @@ We offer two routes for PhD study:
 
 <ul class="timeline">
 
-    <li>
+
+  <li>
+    <div class="timeline-badge"><i class="fas fa-check-circle" aria-hidden="true"></i></div>
+    <div class="timeline-panel">
+      <h4>Check your eligibility for funding</h4>
+      <div class="timeline-body">
+        <p>AHRC funding is open to all UK and EU students who meet the academic and residency eligibility criteria as detailed in the M4C application guidance notes.</p>
+        <p><a href="https://www.midlands4cities.ac.uk/documents/m4c-dtp-applicant-guidance-notes-2018.pdf"><i class="fa fa-chevron-circle-right"></i>Guidance notes</a></p>
+      </div>
+    </div>
+  </li>
+
+    <li class="timeline-inverted">
       <div class="timeline-badge"><i class="fas fa-search" aria-hidden="true"></i></div>
       <div class="timeline-panel">
         <h4>Find a supervisor or project</h4>
@@ -56,16 +68,7 @@ We offer two routes for PhD study:
         </div>
       </div>
     </li>
-    <li class="timeline-inverted">
-      <div class="timeline-badge"><i class="fas fa-check-circle" aria-hidden="true"></i></div>
-      <div class="timeline-panel">
-        <h4>Check your eligibility for funding</h4>
-        <div class="timeline-body">
-          <p>AHRC funding is open to all UK and EU students who meet the academic and residency eligibility criteria as detailed in the M4C application guidance notes.</p>
-          <p><a href="https://www.midlands4cities.ac.uk/documents/m4c-dtp-applicant-guidance-notes-2018.pdf"><i class="fa fa-chevron-circle-right"></i>Guidance notes</a></p>
-        </div>
-      </div>
-    </li>
+
 
     <li>
       <div class="timeline-badge"><i class="fab fa-readme" aria-hidden="true"></i></div>
