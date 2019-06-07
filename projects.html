@@ -10,7 +10,7 @@ customjs:
 
   <h2>Find a project</h2>
 
-  <p><b>Collaborative Doctoral Awards</b> where you apply for advertised projects co-designed between an M4C university and an external partner organisation</p>
+  <p>Our Collaborative Doctoral Awards are co-designed between an M4C university and an external partner organisation. They offer a project with established research aims, responding to particular needs in the cultural, creative and heritage sectors. Current projects and details are listed below; the <a href="/m4c/apply.html">application  process is outlind here</a>.</p>
 
   <!-- Filters etc -->
   <div class="row padrow">
@@ -51,8 +51,11 @@ customjs:
       <div class="card-body">
         <h4 class="card-title">{{ card.foo }}</h4>
         <p class="category">{{ card.uni }}</p>
-        <p class="card-text">Lead academic: {{ card.leadacademic }}</p>
-        <p class="card-text">Partner: {{ card.partner }}</p>
+
+        <p class="card-text">Work with <b>{{ card.partner }}</b> to {{ card.blurb }}</p>
+
+        <!--<p class="card-text">Lead academic: {{ card.leadacademic }}</p>
+        <p class="card-text">Partner: {{ card.partner }}</p> -->
 
       </div>
       <div class="card-footer">

@@ -1,10 +1,13 @@
-foo,uni,unifilter,thumb,leadacademic,partner
-"""Black Foundlings"": Slavery, Trade and London in the Long Eighteenth Century",University of Warwick,UniversityofWarwick,Slaverybanner.jpg,Giorgio Riello,The Foundling Museum
-At Home in Coventry 1945-1975,Coventry University,CoventryUniversity,Herbert.jpg,Imogen Racz,Herbert Art Gallery and Museum
-Bucks County Museum Trust (BCMT) supported by the British Museum,Birmingham City University,BirminghamCityUniversity,buckscountymuseum.jpg,Jiehong Jiang,"Ikon Gallery, Birmingham"
-"Identity, Engagement, and Bonds of Affect through Music",De Montfort University,DeMontfortUniversity,LSMS-Logo-Hi-Res.jpg,Craig Vear,Leicestershire Music Education Hub (Leicestershire County Council)
-"Imperial Connections: Re-examining Kedleston Hall, Derbyshire",University of Birmingham,UniversityofBirmingham,KedlestonHall.jpeg,Kate Smith,National Trust
-"Music Education, Cultural Value and Social Change: A Case Study of the Nottingham Music Service",University of Nottingham,UniversityofNottingham,NottinghamMusicService.jpeg,Lonan O’Briain,Nottingham Music Service
-"Narratives of Loss during the Civil Wars in Ireland, Wales and England Compared, 1641–52",University of Leicester,UniversityofLeicester,NationalCivilWarCentre.jpg,Andrew Hopper,"National Civil War Centre (NCWC), Newark Museum"
-"National Civil War Centre (NCWC), Newark Museum",University of Leicester,UniversityofLeicester,buckscountymuseum.jpg,Jo Story,Bucks County Museum Trust (BCMT) supported by the British Museum
-Nottingham Playhouse: A Cultural History and Analysis of its Community Engagement,Nottingham Trent University,NottinghamTrentUniversity,NottinghamPlayhouse.jpg,Sharon Monteith,Nottingham Playhouse
+foo,uni,unifilter,thumb,leadacademic,partner,blurb
+"""Black Foundlings"": Slavery, Trade and London in the Long Eighteenth Century",University of Warwick,UniversityofWarwick,Slaverybanner.jpg,Giorgio Riello,The Foundling Museum," investigate the connections between London and the Atlantic
+(West Africa, the West Indies and the North American Colonies) through the unique lens of the
+Foundling Hospital, an institution founded for the ""education and maintenance of exposed and
+deserted young children."""
+At Home in Coventry 1945-1975,Coventry University,CoventryUniversity,Herbert.jpg,Imogen Racz,Herbert Art Gallery and Museum,
+Bucks County Museum Trust (BCMT) supported by the British Museum,Birmingham City University,BirminghamCityUniversity,buckscountymuseum.jpg,Jiehong Jiang,"Ikon Gallery, Birmingham",
+"Identity, Engagement, and Bonds of Affect through Music",De Montfort University,DeMontfortUniversity,LSMS-Logo-Hi-Res.jpg,Craig Vear,Leicestershire Music Education Hub (Leicestershire County Council),
+"Imperial Connections: Re-examining Kedleston Hall, Derbyshire",University of Birmingham,UniversityofBirmingham,KedlestonHall.jpeg,Kate Smith,National Trust,
+"Music Education, Cultural Value and Social Change: A Case Study of the Nottingham Music Service",University of Nottingham,UniversityofNottingham,NottinghamMusicService.jpeg,Lonan O’Briain,Nottingham Music Service,
+"Narratives of Loss during the Civil Wars in Ireland, Wales and England Compared, 1641–52",University of Leicester,UniversityofLeicester,NationalCivilWarCentre.jpg,Andrew Hopper,"National Civil War Centre (NCWC), Newark Museum",
+"National Civil War Centre (NCWC), Newark Museum",University of Leicester,UniversityofLeicester,buckscountymuseum.jpg,Jo Story,Bucks County Museum Trust (BCMT) supported by the British Museum,
+Nottingham Playhouse: A Cultural History and Analysis of its Community Engagement,Nottingham Trent University,NottinghamTrentUniversity,NottinghamPlayhouse.jpg,Sharon Monteith,Nottingham Playhouse,
