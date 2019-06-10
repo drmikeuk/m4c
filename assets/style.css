@@ -5,7 +5,7 @@ body    {background: #fcfcfc}  /* kbase: #F7F8F9; f8f9fa*/
 .ahrc   {margin-top: -20px}
 .footer {background: #ccc; padding: 3em 0 2em; min-height: 450px; margin-top: 2em}
 
-a: {color: #9b1b3a}
+a {color: #9b1b3a}
 
 .navbar {background: #434344; margin-bottom: 2rem}
 .navbar-expand-md .navbar-nav .nav-link {color: white; padding-left: 0; padding-right: 0 /* do this on nav-item instead but not the first ... */}
@@ -157,6 +157,12 @@ i.padl                {padding-left: 1em}
         }
 }
 
+
+/* other */
+#myTab li        {font-weight: bold;}
+.tab-content     {padding-top: 1em}
+.notes li        {font-size: 22px; padding-bottom: 8px}
+.notes li li     {font-size: 16px}
 
 
 

@@ -15,27 +15,34 @@ Nam vehicula, mi eu mattis viverra, enim enim ullamcorper nulla, id scelerisque 
 Full time
 
 * **Year 1**
-  1. A **research statement** of 1500-2000 words that should indicate the scope of your thesis and outline the key research questions, research context and research methodology (including details of any key texts, materials or case studies you intend to use)​
-  2. A 5000-word **example of your written work** (ie a chapter or a section of discursive prose from your thesis) or equivalent output for practice-based Ph​Ds
-  3. M4C award holders: During year one (or part-time equivalent), an M4C award can be extended up to a maximum of 6 months full-time or 12 months part-time. Requests for extended funding can be made where there is a rationale for complex or extended training, skills acquisition, extended archival visits, fieldwork or placement needs.
+  1. A **research statement** of 1500-2000 words indicating the scope of your thesis, and outlining the key research questions, research context and methodology (include details of any key texts, materials or case studies you intend to use). ​
+  2. A 5000-word **example of your written work**  ie a chapter or a section of discursive prose from your thesis, or equivalent output for practice-based Ph​Ds.
+  3. For M4C award holders in year one (or part-time equivalent) requests for **extended funding** can be made where there is a rationale for complex or extended training, skills acquisition, extended archival visits, fieldwork or placement needs. An M4C award can be extended up to a maximum of 6 months full-time or 12 months part-time.
 * **Year 2**
-  1. An updated 1500-word research statement. This should build on your initial report in the first year of study, providing details of how the research has developed and any changes in scope, content an​d direction
-  2. _if required_ a 5000-word example of your written work (i.e. a chapter or a section of discursive prose from your thesis) or equivalent output for practice-based Ph​Ds
+  1. An updated 1500-word **research statement**. This should build on your first-year statement and provide details of how the research has developed, any changes in scope, content an​d direction.
+  2. _if required_ a 5000-word example of your written work (ie a chapter or a section of discursive prose from your thesis) or equivalent output for practice-based Ph​Ds.
 * **Year 3**
-  1. An updated 1500-word research statement. This should build on your initial report in the first year of study, providing details of how the research has developed and any changes in scope, content an​d direction
-  2. _if required_ a 5000-word example of your written work (i.e. a chapter or a section of discursive prose from your thesis) or equivalent output for practice-based Ph​Ds
+  1. An updated 1500-word **research statement**. This should build on your first-year statement and provide details of how the research has developed, any changes in scope, content an​d direction.
+  2. _if required_ a 5000-word example of your written work (ie a chapter or a section of discursive prose from your thesis) or equivalent output for practice-based Ph​Ds.
 
 
 Part time
 
+Part time students will undertake an assessment review in years 2, 4 and 6.   In years 1, 3 and 5 they will be reviewed by their supervisory team using the student mid-year report form.
+
 * **Year 1**
-  1. A research statement of 1500-2000 words that should indicate the scope of your thesis and outline the key research questions, research context and research methodology (including details of any key texts, materials or case studies you intend to use)​
+  1. Student mid-year report form only
 * **Year 2**
-  1. A 5000-word example of your written work (i.e. a chapter or a section of discursive prose from your thesis) or equivalent output for practice-based Ph​Ds
-  2. M4C award holders:
+  1. A **research statement** of 1500-2000 words indicating the scope of your thesis, and outlining the key research questions, research context and methodology (include details of any key texts, materials or case studies you intend to use). ​
+  2. A 5000-word **example of your written work**  ie a chapter or a section of discursive prose from your thesis, or equivalent output for practice-based Ph​Ds.
+  3. For M4C award holders in year one (or part-time equivalent) requests for **extended funding** can be made where there is a rationale for complex or extended training, skills acquisition, extended archival visits, fieldwork or placement needs. An M4C award can be extended up to a maximum of 6 months full-time or 12 months part-time.
+* **Year 3**
+  1. Student mid-year report form only
 * **Year 4**
-  1. updated res state
-  2. 5000 words _if req_
+  1. An updated 1500-word **research statement**. This should build on your first-year statement and provide details of how the research has developed, any changes in scope, content an​d direction.
+  2. _if required_ a 5000-word example of your written work (ie a chapter or a section of discursive prose from your thesis) or equivalent output for practice-based Ph​Ds.
+* **Year 5**
+  1. Student mid-year report form only
 * **Year 6**
-  1. updated res state
-  2. 5000 words _if req_
+  1. An updated 1500-word **research statement**. This should build on your first-year statement and provide details of how the research has developed, any changes in scope, content an​d direction.
+  2. _if required_ a 5000-word example of your written work (ie a chapter or a section of discursive prose from your thesis) or equivalent output for practice-based Ph​Ds.
