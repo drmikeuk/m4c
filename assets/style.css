@@ -26,11 +26,13 @@ a: {color: #9b1b3a}
 .card .icon     {float: right; font-size: 2rem; color: #ccc; padding-right: 0}
 .card-body      {padding: 0.75rem}
 .card-footer    {padding: 0.75rem; background-color: white; border-top: 0px; text-align: center;}
-.card img       {height: 130px; object-fit: cover; border-bottom: 1px solid rgba(0,0,0,.125)}
+.card-img-top   {height: 130px; object-fit: cover; border-bottom: 1px solid rgba(0,0,0,.125)}
 .card h4        {line-height: 110%; margin-bottom: 6px; font-weight: 400;}
 .card p         {line-height: 1.2rem}
 .card .category {color: #5D6D7E; font-size: 0.8rem; margin-bottom: 0.8rem}
 .card .labels   {color: #5D6D7E; font-size: 0.9rem; font-style: italic; margin-bottom: 0; /*border-top: 1px solid #ddd; padding-top: 4px*/}
+
+.card-photo      {height: 110px; width: 110px; position: relative; top: -50px; border: 3px solid white; text-align: center; margin: 0 auto -55px}
 
 
 /* buttons */

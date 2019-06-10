@@ -1,0 +1,77 @@
+---
+layout: landing
+title: Student profiles
+nav: "yes"
+sortTitle: "4"
+customjs:
+  - /vendor/isotope.pkgd.min.js
+  - /assets/profiles.isotope.js
+---
+
+<div class="container-fluid">
+
+  <h2>Student profiles</h2>
+
+  <p>Our student community is distinguished by breadth and diversity in the people and projects that make up M4C. Connecting across the Midlands, our students are part of a dynamic network of postgraduate researchers, with opportunities to collaborate on research and training throughout the doctoral experience.</p>
+
+  <!-- Filters etc -->
+  <div class="row padrow">
+
+    <input type="text" class="quicksearch" placeholder="Search..." />
+
+    <div class="filters">
+
+      <!-- Universities:  -->
+      <div class="btn-group filter-button-group" data-filter-group="label" aria-label="Filter by category">
+        <button type="button" class="btn btn-primary" data-filter="*">All</button>
+        <button type="button" class="btn " data-filter=".UniversityofBirmingham">Birmingham</button>
+        <button type="button" class="btn " data-filter=".BirminghamCityUniversity">Birmingham City</button>
+        <button type="button" class="btn " data-filter=".CoventryUniversity">Coventry</button>
+        <button type="button" class="btn " data-filter=".DeMontfortUniversity">De Montfort</button>
+        <button type="button" class="btn " data-filter=".UniversityofLeicester">Leicester</button>
+        <button type="button" class="btn " data-filter=".UniversityofNottingham">Nottingham</button>
+        <button type="button" class="btn " data-filter=".NottinghamTrentUniversity">Nottingham Trent</button>
+        <button type="button" class="btn " data-filter=".UniversityofWarwick">Warwick</button>
+      </div>
+
+    </div> <!-- end filters -->
+
+    <!-- Count
+    <div class="filter-count"></div> -->
+
+  </div>
+
+
+
+  <!-- CARDS -->
+  <div class="grid clearfix">
+
+  <!--  Cards2: from CSV file  <i class="fas fa-external-link-alt"></i>  -->
+  {% for card in site.data.profiles %}
+
+    <div class="card {{ card.university | replace: ' ', '' }} ">
+      <img src="{{card.banner | prepend: "/m4c/banners/" }}" class="card-img-top" alt="thumbnail">
+      <img src="{{card.photo | prepend: "/m4c/photos/" }}" class="card-photo rounded-circle" alt="thumbnail">
+      <div class="card-body">
+        <h4 class="card-title">{{ card.first_name }} {{ card.last_name }}</h4>
+        <p class="category">{{ card.dept }}<br/>
+        {{ card.university }}</p>
+
+        <p class="card-text">{{ card.blurb }}</p>
+
+        <p style="display:none">{{ card.hidden }}</p>
+
+
+      </div>
+      <div class="card-footer">
+
+        <a href='#' class="btn btn-secondary">View profile <i class="fas fa-chevron-right padl"></i></a>
+
+      </div>
+    </div>
+  {% endfor %}
+
+
+  </div> <!-- end grid -->
+
+</div>
