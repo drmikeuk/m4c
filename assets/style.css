@@ -15,14 +15,14 @@ a {color: #9b1b3a}
 
 /* filters above cards */
 .padrow         {margin: 20px 0}
-.filters        {margin-left: 30px}
+.quicksearch    {margin-right: 30px; margin-bottom: 12px}
 .btn-group      {margin-right: 1em}
 .btn            {border: 1px solid rgba(0,0,0,.125)}
 .filter-count   {padding: .375rem .5rem}
 
 /* grid of cards */
 .grid           {margin: 2rem 0; /*display: flex; flex-direction: row; justify-content: center;*/}
-.card           {width: 25rem; min-height: 24rem; margin-right: 3rem; margin-bottom: 3rem; float: left; font-size: 1rem;}
+.card           {width: 100%; min-height: 24rem;  margin-bottom: 3rem; float: left; font-size: 1rem;}
 .card .icon     {float: right; font-size: 2rem; color: #ccc; padding-right: 0}
 .card-body      {padding: 0.75rem}
 .card-footer    {padding: 0.75rem; background-color: white; border-top: 0px; text-align: center;}
@@ -158,6 +158,8 @@ i.padl                {padding-left: 1em}
 }
 
 
+
+
 /* other */
 #myTab li        {font-weight: bold;}
 .tab-content     {padding-top: 1em}
@@ -165,6 +167,15 @@ i.padl                {padding-left: 1em}
 .notes li li     {font-size: 16px}
 
 
+/* responsive cards */
+@media (min-width: 767px) {
+  .container-fluid { padding-right: 30px; padding-left: 30px;}
+  .card           {width: 350px; margin-right: 30px;}
+}
+
+@media (min-width: 1201px) {
+  .card           {width: 23rem; margin-right: 3rem;}
+}
 
 /*
  * Font Awesome Free 5.8.1 by @fontawesome - https://fontawesome.com
