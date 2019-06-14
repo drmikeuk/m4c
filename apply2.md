@@ -1,11 +1,9 @@
 ---
 layout: page
 title: "Apply"
-nav: "yes"
-sortTitle: "1"
 ---
 
-<h2>Apply</h2>
+<h2>Apply v2</h2>
 
 We offer two routes for PhD study:
 

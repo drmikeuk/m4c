@@ -5,9 +5,9 @@ title: "Find a supervisor"
 
 <h2>Find a supervisor</h2>
 
-<i class="fas fa-star"></i> Draw on the expertise from across the eight M4C universities to find the perfect supervisory team
+* Draw on the expertise from across the eight M4C universities to find the perfect supervisory team
 
-<i class="fas fa-star"></i> Your supervisory team should include at least two academic supervisors and may also include a member from a non-university partner organisation
+* Your supervisory team should include at least two academic supervisors and may also include a member from a non-university partner organisation
 
 
 Will be 2 cols lists plus quotes...
