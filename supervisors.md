@@ -5,7 +5,12 @@ title: "Find a supervisor"
 
 <h2>Find a supervisor</h2>
 
-Student-led **Open Doctoral Awards** where you agree a research proposal with academic supervisors within the M4C partnership  
+<i class="fas fa-star"></i> Draw on the expertise from across the eight M4C universities to find the perfect supervisory team
+
+<i class="fas fa-star"></i> Your supervisory team should include at least two academic supervisors and may also include a member from a non-university partner organisation
+
+
+Will be 2 cols lists plus quotes...
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel ligula sit amet ipsum euismod eleifend ac sit amet ante. Fusce sollicitudin, augue sit amet tempor hendrerit, enim erat sodales diam, a suscipit erat mauris tempor ante. Aenean porta odio a tellus viverra bibendum. Cras sit amet erat eros. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
