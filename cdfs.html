@@ -1,0 +1,79 @@
+---
+layout: landing
+title: CDFs
+customjs:
+  - /vendor/isotope.pkgd.min.js
+  - /assets/projects.isotope.js
+---
+
+<style>
+.card {min-height: 28rem; /* these tend to  havbe longer titles so need to be taller */}
+</style>
+
+<div class="container-fluid">
+
+  <h2>Cohort Development Fund</h2>
+
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum semper nunc eu elementum. Etiam at porttitor odio. Proin nec libero ipsum. Sed dictum lacus sem, sed tincidunt lacus sagittis ut. Vivamus sed tellus sit amet mi vestibulum molestie.</p>
+
+  <!-- Filters etc -->
+  <div class="row padrow">
+
+    <input type="text" class="quicksearch" placeholder="Search..." />
+
+    <div class="filters">
+
+      <!-- Universities:  -->
+      <div class="btn-group filter-button-group flex-wrap" data-filter-group="label" aria-label="Filter by category">
+        <button type="button" class="btn btn-primary" data-filter="*">All</button>
+
+        <button type="button" class="btn " data-filter=".Midlands4Cities">M4C Central</button>
+
+        <button type="button" class="btn " data-filter=".UniversityofBirmingham">Birmingham</button>
+        <button type="button" class="btn " data-filter=".BirminghamCityUniversity">Birmingham City</button>
+        <button type="button" class="btn " data-filter=".CoventryUniversity">Coventry</button>
+        <button type="button" class="btn " data-filter=".DeMontfortUniversity">De Montfort</button>
+        <button type="button" class="btn " data-filter=".UniversityofLeicester">Leicester</button>
+        <button type="button" class="btn " data-filter=".UniversityofNottingham">Nottingham</button>
+        <button type="button" class="btn " data-filter=".NottinghamTrentUniversity">Nottingham Trent</button>
+        <button type="button" class="btn " data-filter=".UniversityofWarwick">Warwick</button>
+      </div>
+
+    </div> <!-- end filters -->
+
+    <!-- Count
+    <div class="filter-count"></div> -->
+
+  </div>
+
+
+
+  <!-- CARDS -->
+  <div class="grid clearfix">
+
+  <!--  Cards2: from CSV file  <i class="fas fa-external-link-alt"></i>  -->
+  {% for card in site.data.cdf %}
+    <div class="card {{ card.unifilter }} ">
+      <img src="{{card.thumb | prepend: "/m4c/cdfimages/" }}" class="card-img-top" alt="thumbnail">
+      <div class="card-body">
+        <h4 class="card-title">{{ card.foo }}</h4>
+        <p class="category">{{ card.lead }}<br/>{{ card.uni }}</p>
+
+        <p class="card-text">{{ card.blurb }}</p>
+
+        <!--<p class="card-text">Lead academic: {{ card.leadacademic }}</p>
+        <p class="card-text">Partner: {{ card.partner }}</p> -->
+
+      </div>
+      <div class="card-footer">
+
+        <a href='#' class="btn btn-secondary">View details <i class="fas fa-chevron-right padl"></i></a>
+
+      </div>
+    </div>
+  {% endfor %}
+
+
+  </div> <!-- end grid -->
+
+</div>
