@@ -61,7 +61,7 @@ i.padl                {padding-left: 1em}
 /* OTHER */
 h2                  {margin-top: 1em}
 .msg                {margin-top: 2em}
-.msg span           {background: #ddd; padding: 10px;}
+.msg span           {background: #ddd; padding: 10px; display: block}
 .msg i              {padding-right: 10px; }
 
 
@@ -129,11 +129,18 @@ h2                  {margin-top: 1em}
 .timeline h4 			{margin-top: 0;}
 .timeline h4 span 		{padding-right: 0.6em;}
 .timeline-body > p,
-.timeline-body > ul 	{margin-bottom: 0;}
+.timeline-body > ul 	{margin-bottom: 0; }
 .timeline-body > p + p  {margin-top: 5px;}
 
 
-/* wider = 2 cols */
+/* ipad: two columns but smaller panels */
+@media (max-width: 1023px) {
+    ul.timeline > li > .timeline-panel {
+        width: 43%;
+    }
+}
+
+/* phones: just one column */
 @media (max-width: 767px) {
     ul.timeline:before {
         left: 30px;
@@ -168,6 +175,8 @@ h2                  {margin-top: 1em}
         left: -14px;
         right: auto;
     }
+
+    .timeline-body > ul 	{padding-left: 20px}
 }
 
 
@@ -182,15 +191,17 @@ h2                  {margin-top: 1em}
 
 /* responsive cards */
 @media (min-width: 767px) {
-  .container-fluid { padding-right: 30px; padding-left: 30px;}
-  .card           {width: 350px; margin-right: 30px;}
-  .banner         { height: 200px; margin-bottom: 20px}
+  .container-fluid {padding-right: 30px; padding-left: 30px;}
+  .card            {width: 350px; margin-right: 30px;}
+  .banner          {height: 200px; margin-bottom: 20px}
+  .msg span        {display: inline}
 }
 
 
 @media (min-width: 1201px) {
-  .card           {width: 22rem; margin-right: 3rem;}
-h2                  {margin-top: 1.5em}
+  .card            {width: 22rem; margin-right: 3rem;}
+  h2               {margin-top: 1.5em}
+
 
 }
 
