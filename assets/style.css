@@ -10,7 +10,7 @@ a {color: #9b1b3a}
 
 .navbar {background: #434344; margin-bottom: 2rem}
 .navbar-expand-md .navbar-nav .nav-link {color: white; padding-left: 0; padding-right: 0 /* do this on nav-item instead but not the first ... */}
-.navbar-expand-md .navbar-nav .nav-item  {padding-left: 1.5rem; padding-right: 1.5rem; }
+.navbar-expand-md .navbar-nav .nav-item  {padding-left: 1rem; padding-right: 1rem; }
 .navbar-expand-md .navbar-nav .nav-item:first-child {padding-left: 0; }
 
 
@@ -189,6 +189,7 @@ h2                  {margin-top: 1em}
 .notes li li     {font-size: 16px}
 
 
+
 /* responsive cards */
 @media (min-width: 767px) {
   .container-fluid {padding-right: 30px; padding-left: 30px;}
@@ -201,7 +202,7 @@ h2                  {margin-top: 1em}
 @media (min-width: 1201px) {
   .card            {width: 22rem; margin-right: 3rem;}
   h2               {margin-top: 1.5em}
-
+  .navbar-expand-md .navbar-nav .nav-item  {padding-left: 1.5rem; padding-right: 1.5rem; }
 
 }
 
