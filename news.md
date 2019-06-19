@@ -5,6 +5,6 @@ nav: "yes"
 sortTitle: "5"
 ---
 
-## News & events
+# News & events
 
 ... cards ...

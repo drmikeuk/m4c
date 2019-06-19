@@ -4,44 +4,19 @@ title: "Apply"
 banner:  "samplebanner.jpg"
 ---
 
-<h2>Apply v2</h2>
+<h2>Apply</h2>
 
 We offer two routes for PhD study:
 
-1.	Student-led **Open Doctoral Awards** where you agree a research proposal with academic supervisors within the M4C partnership
-2.	**Collaborative Doctoral Awards** where you apply for advertised projects co-designed between an M4C university and an external partner organisation
+1.	Student-led **Open Doctoral Awards** where you agree a research proposal with academic supervisors within the M4C partnership. There is the potential to build cross-institutional supervisory teams to maximize fit and expertise.
+2.	**Collaborative Doctoral Awards** where you apply for advertised projects co-designed between an M4C university and an external partner organisation. CDAs offer a project with established research aims and supervisory teams.
 
 The Midlands4Cities online student’s application and reference forms will be available from the **14 October 2019**.<br/>The closing date for submission of complete applications is: **14 January 2020** (noon).
 
 
-<div class="row">
-  <div class="col-sm">
-    <h2>Open Doctoral Award</h2>
-    <p>We invite high-quality applications within any disciplinary and interdisciplinary area of the arts and humanities.<br/>These awards are student-led and you will agree a research proposal with academic supervisors within the M4C partnership. There is the potential to build cross-institutional supervisory teams to maximize fit and expertise.</p>
-
-    <a class="btn btn-secondary btn-right" href="https://www.midlands4cities.ac.uk/documents/m4c-dtp-applicant-guidance-notes-2018.pdf" role="button">Guidance notes <i class="far fa-file-pdf padl"></i></a>
-
-    <a class="btn btn-primary" href="/m4c/supervisors.html" role="button">Find a supervisor <i class="fas fa-chevron-right padl"></i></a>
-
-
-  </div>
-
-  <div class="col-sm">
-    <h2>Collaborative Doctoral Award</h2>
-    <p>These awards are co-designed between an M4C university and an external partner organisation. CDAs offer a project with established research aims and supervisory teams including academics from the M4C partnership and a member of the external partner organisation.</p>
-
-    <a class="btn btn-secondary btn-right" href="https://www.midlands4cities.ac.uk/documents/m4c-dtp-applicant-guidance-notes-2018.pdf" role="button">Guidance notes <i class="far fa-file-pdf padl"></i></a>
-
-    <a class="btn btn-primary" href="/m4c/projects.html" role="button">Find a project <i class="fas fa-chevron-right padl"></i></a>
-  </div>
-</div>
-
-
-<h2 style="padding-top: 2em">The application  process</h2>
-
+<h2>The application process</h2>
 
 <ul class="timeline">
-
 
   <li>
     <div class="timeline-badge"><i class="fas fa-check-circle" aria-hidden="true"></i></div>
@@ -60,13 +35,10 @@ The Midlands4Cities online student’s application and reference forms will be a
         <h4>Find a supervisor or project</h4>
         <div class="timeline-body">
           <p>We offer two routes for PhD study:</p>
-
-          <p>1.	Student-led <b>Open Doctoral Awards</b> where you agree a research proposal with academic supervisors within the M4C partnership<br/>
-          <a href="/m4c/supervisors.html"><i class="fa fa-chevron-circle-right"></i>Find a supervisor</a></p>
-
-          <p>2. <b>Collaborative Doctoral Awards</b> where you apply for advertised projects co-designed between an M4C university and an external partner organisation<br/>
-          <a href="/m4c/projects.html"><i class="fa fa-chevron-circle-right"></i>Find a project</a></p>
-
+          <p>1.	Student-led <b>Open Doctoral Awards</b> where you agree a research proposal with academic supervisors within the M4C partnership.</p>
+          <a class="btn btn-primary" href="/m4c/supervisors.html" role="button" style="margin-bottom: 10px">Find a supervisor <i class="fas fa-chevron-right padl"></i></a>
+          <p>2. <b>Collaborative Doctoral Awards</b> where you apply for advertised projects co-designed between an M4C university and an external partner organisation.</p>
+          <a class="btn btn-primary" href="/m4c/projects.html" role="button">Find a project <i class="fas fa-chevron-right padl"></i></a>
         </div>
       </div>
     </li>

@@ -3,7 +3,7 @@ layout: page
 title: "Find a supervisor"
 ---
 
-<h2>Find a supervisor</h2>
+<h1>Find a supervisor</h1>
 
 * Draw on the expertise from across the eight M4C universities to find the perfect supervisory team
 

@@ -2,6 +2,7 @@
 /* m4c red: #9b1b3a  dark grey: #434344 */
 body    {background: #fcfcfc}  /* kbase: #F7F8F9; f8f9fa*/
 .header {padding: 30px 0; min-height: 110px}
+.banner { background-size: cover; height: 120px; margin-top: -32px; margin-bottom: 12px}
 .ahrc   {margin-top: -20px}
 .footer {background: #ccc; padding: 3em 0 2em; min-height: 450px; margin-top: 2em}
 
@@ -39,7 +40,7 @@ a {color: #9b1b3a}
 .icons a          {color: #434344}
 .icons a:hover    {color: #9A1B3A}
 .fa-stack         { font-size: 1.2em; }
-i                 { vertical-align: middle; }
+i                 { /*vertical-align: middle; breaks timeline alignment */}
 i.padr                {padding-right: 1em}
 i.padl                {padding-left: 1em}
 
@@ -53,9 +54,21 @@ i.padl                {padding-left: 1em}
 .card-footer .btn     {padding: .375rem 1.5rem;}
 
 
+/* BOXES */
+.box                {border: 1px solid #d4d4d4; padding: 15px; margin-bottom: 20px}
+
+
+/* OTHER */
+h2                  {margin-top: 1em}
+.msg                {margin-top: 2em}
+.msg span           {background: #ddd; padding: 10px;}
+.msg i              {padding-right: 10px; }
+
+
+
 /* TIMELINE */
-.timeline 				{list-style: none; padding: 20px 0; position: relative;}
-.timeline .thumbnail    {margin-top: 6px; margin-bottom: 0px; padding: 0px;}
+.timeline 				{list-style: none; padding: 30px 0 0; position: relative; margin-bottom: 30px}
+.timeline .btn    { margin-top: 10px}
 
 /* center line */
 .timeline:before 		{top: 0; bottom: 0; position: absolute; content: " "; width: 3px; background-color: #eee; left: 50%; margin-left: -1.5px;}
@@ -105,7 +118,7 @@ i.padl                {padding-left: 1em}
             border-bottom-right-radius: 50%;
             border-bottom-left-radius: 50%;}
 .timeline i {padding-right: 0px ;}
-.timeline-panel i {padding-right: 10px;}
+/*timeline-panel i {padding-right: 10px;}*/
 
 /* triangles */
 .timeline > li.timeline-inverted > .timeline-panel {float: right;}
@@ -171,11 +184,14 @@ i.padl                {padding-left: 1em}
 @media (min-width: 767px) {
   .container-fluid { padding-right: 30px; padding-left: 30px;}
   .card           {width: 350px; margin-right: 30px;}
+  .banner         { height: 200px; margin-bottom: 20px}
 }
 
 
 @media (min-width: 1201px) {
   .card           {width: 22rem; margin-right: 3rem;}
+h2                  {margin-top: 1.5em}
+
 }
 
 

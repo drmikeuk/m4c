@@ -3,45 +3,35 @@ layout: page
 title: "Apply"
 nav: "yes"
 sortTitle: "1"
+banner:  "samplebanner.jpg"
 ---
 
-<h2>Apply</h2>
+<h1>Apply</h1>
 
 We offer two routes for PhD study:
 
-1.	Student-led **Open Doctoral Awards** where you agree a research proposal with academic supervisors within the M4C partnership
-2.	**Collaborative Doctoral Awards** where you apply for advertised projects co-designed between an M4C university and an external partner organisation
-
-The Midlands4Cities online student’s application and reference forms will be available from the **14 October 2019**.<br/>The closing date for submission of complete applications is: **14 January 2020** (noon).
-
 <div class="row">
-  <div class="col-sm">
-    <h2>Open Doctoral Award</h2>
-    <p>We invite high-quality applications within any disciplinary and interdisciplinary area of the arts and humanities.<br/>These awards are student-led and you will agree a research proposal with academic supervisors within the M4C partnership. There is the potential to build cross-institutional supervisory teams to maximize fit and expertise.</p>
-
-    <a class="btn btn-secondary btn-right" href="https://www.midlands4cities.ac.uk/documents/m4c-dtp-applicant-guidance-notes-2018.pdf" role="button">Guidance notes <i class="far fa-file-pdf padl"></i></a>
-
-    <a class="btn btn-primary" href="/m4c/supervisors.html" role="button">Find a supervisor <i class="fas fa-chevron-right padl"></i></a>
-
-
+  <div class="col-md">
+    <div class="box">
+      <h4><span class="badge badge-secondary">1</span>  Open Doctoral Award</h4>
+      <p>Student-led awards where you agree a research proposal with academic supervisors within the M4C partnership. There is the potential to build cross-institutional supervisory teams to maximize fit and expertise.</p>
+    </div>
   </div>
-
-  <div class="col-sm">
-    <h2>Collaborative Doctoral Award</h2>
-    <p>These awards are co-designed between an M4C university and an external partner organisation. CDAs offer a project with established research aims and supervisory teams including academics from the M4C partnership and a member of the external partner organisation.</p>
-
-    <a class="btn btn-secondary btn-right" href="https://www.midlands4cities.ac.uk/documents/m4c-dtp-applicant-guidance-notes-2018.pdf" role="button">Guidance notes <i class="far fa-file-pdf padl"></i></a>
-
-    <a class="btn btn-primary" href="/m4c/projects.html" role="button">Find a project <i class="fas fa-chevron-right padl"></i></a>
+  <div class="col-md" >
+    <div class="box">
+      <h4><span class="badge badge-secondary">2</span> Collaborative Doctoral Award</h4>
+      <p>These awards are co-designed between an M4C university and an external partner organisation. CDAs offer a project with established research aims and supervisory teams including academics from the M4C partnership and a member of the external partner organisation.</p>
+    </div>
   </div>
 </div>
 
 
-<h2 style="padding-top: 2em">The application  process</h2>
 
+<h2>The application process</h2>
+
+<p class="msg"><span><i class="fas fa-info-circle"></i> Applications for 2020/21 opens on the <b>14 October 2019</b></span></p>
 
 <ul class="timeline">
-
 
   <li>
     <div class="timeline-badge"><i class="fas fa-check-circle" aria-hidden="true"></i></div>
@@ -49,7 +39,7 @@ The Midlands4Cities online student’s application and reference forms will be a
       <h4>Check your eligibility for funding</h4>
       <div class="timeline-body">
         <p>AHRC funding is open to all UK and EU students who meet the academic and residency eligibility criteria as detailed in the M4C application guidance notes.</p>
-        <p><a href="https://www.midlands4cities.ac.uk/documents/m4c-dtp-applicant-guidance-notes-2018.pdf"><i class="fa fa-chevron-circle-right"></i>Guidance notes</a></p>
+        <a class="btn btn-secondary" href="#" role="button">Guidance notes <i class="fas fa-chevron-right padl"></i></a>
       </div>
     </div>
   </li>
@@ -60,13 +50,10 @@ The Midlands4Cities online student’s application and reference forms will be a
         <h4>Find a supervisor or project</h4>
         <div class="timeline-body">
           <p>We offer two routes for PhD study:</p>
-
-          <p>1.	Student-led <b>Open Doctoral Awards</b> where you agree a research proposal with academic supervisors within the M4C partnership<br/>
-          <a href="/m4c/supervisors.html"><i class="fa fa-chevron-circle-right"></i>Find a supervisor</a></p>
-
-          <p>2. <b>Collaborative Doctoral Awards</b> where you apply for advertised projects co-designed between an M4C university and an external partner organisation<br/>
-          <a href="/m4c/projects.html"><i class="fa fa-chevron-circle-right"></i>Find a project</a></p>
-
+          <p>1.	Student-led <b>Open Doctoral Awards</b> where you agree a research proposal with academic supervisors within the M4C partnership.</p>
+          <a class="btn btn-primary" href="/m4c/supervisors.html" role="button">Find a supervisor <i class="fas fa-chevron-right padl"></i></a>
+          <p style="padding-top: 1.2em">2. <b>Collaborative Doctoral Awards</b> where you apply for advertised projects co-designed between an M4C university and an external partner organisation.</p>
+          <a class="btn btn-primary" href="/m4c/projects.html" role="button">Find a project <i class="fas fa-chevron-right padl"></i></a>
         </div>
       </div>
     </li>
@@ -77,8 +64,8 @@ The Midlands4Cities online student’s application and reference forms will be a
       <div class="timeline-panel">
         <h4>Read the guidance notes</h4>
         <div class="timeline-body">
-          <p>To complete your application, you should read and understand the application guidance notes, you will need to refer to these during the application process.</p>
-          <p><a href="https://www.midlands4cities.ac.uk/documents/m4c-dtp-applicant-guidance-notes-2018.pdf"><i class="fa fa-chevron-circle-right"></i>Guidance notes</a></p>
+          <p>To complete your application, you should read and understand the application guidance notes. You will need to refer to these during the application process.</p>
+          <a class="btn btn-secondary" href="#" role="button">Guidance notes <i class="fas fa-chevron-right padl"></i></a>
         </div>
       </div>
     </li>
@@ -115,7 +102,8 @@ The Midlands4Cities online student’s application and reference forms will be a
           	<li>Nominating your two referees</li>
           	<li>Equality opportunities information</li>
           </ul>
-          <p><a href="#"><i class="fa fa-chevron-circle-right"></i>M4c application form</a></p>
+          <p>The closing date is: <b>14 January 2020</b> (noon).</p>
+          <a class="btn btn-primary" href="#" role="button">M4C application form <i class="fas fa-chevron-right padl"></i></a>
         </div>
       </div>
     </li>

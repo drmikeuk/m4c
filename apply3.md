@@ -4,7 +4,10 @@ title: "Apply"
 banner:  "samplebanner.jpg"
 ---
 
-<h2>Apply v2</h2>
+<h2>Apply v3</h2>
+
+<div class="row" markdown="1">
+  <div class="col" markdown="1">
 
 We offer two routes for PhD study:
 
@@ -12,6 +15,16 @@ We offer two routes for PhD study:
 2.	**Collaborative Doctoral Awards** where you apply for advertised projects co-designed between an M4C university and an external partner organisation
 
 The Midlands4Cities online student’s application and reference forms will be available from the **14 October 2019**.<br/>The closing date for submission of complete applications is: **14 January 2020** (noon).
+
+  </div>
+  <div class="col" >
+
+    PHOTO
+
+    Working on Journey to Justice: Nottingham was an amazing experience. I learnt a lot during my time as postgraduate project lead and developed a range of skills that will prove invaluable in years to come.
+
+  </div>
+</div>
 
 
 <div class="row">
