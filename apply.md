@@ -3,7 +3,7 @@ layout: page
 title: "Apply"
 nav: "yes"
 sortTitle: "1"
-banner:  "samplebanner.jpg"
+banner:  "MJPL3501.jpg"
 ---
 
 <h1>Apply</h1>
@@ -76,16 +76,16 @@ We offer two routes for PhD study:
         <div class="timeline-body">
           <p>You need to apply to study at the M4C university where your lead academic supervisor is based, using their application procedures.</p>
           <ul>
-            <li><a href="#">University of Birmingham</a></li>
-            <li><a href="#">Birmingham City University</a></li>
-          	<li><a href="#">The University of Warwick</a></li>
-          	<li><a href="#">Coventry University</a></li>
-          	<li><a href="#">De Montfort University</a></li>
-          	<li><a href="#">University of Leicester</a></li>
-          	<li><a href="#">Nottingham Trent University</a></li>
-          	<li><a href="#">University of Nottingham</a></li>
+            <li><a href="https://www.birmingham.ac.uk/schools/calgs/scholarships/index.aspx">University of Birmingham</a></li>
+            <li><a href="https://www.bcu.ac.uk/research/midlands4cities">Birmingham City University</a></li>
+          	<li><a href="https://warwick.ac.uk/fac/arts/cadre/prospectivestudents/scholarships/m4c/phdapplication/">The University of Warwick</a></li>
+          	<li><a href="https://pgrplus.coventry.ac.uk/">Coventry University</a></li>
+          	<li><a href="https://www.dmu.ac.uk/research/midlands4cities-dtp/apply-now.aspx">De Montfort University</a></li>
+          	<li><a href="https://le.ac.uk/study/research-degrees/funded-opportunities/m4c-open-doctoral-award">University of Leicester</a></li>
+          	<li><a href="https://www.ntu.ac.uk/study-and-courses/postgraduate/how-to-apply">Nottingham Trent University</a></li>
+          	<li><a href="https://www.nottingham.ac.uk/arts/teaching/postgraduate-research/midlands4cities.aspx">University of Nottingham</a></li>
           </ul>
-          NB add links!
+
         </div>
       </div>
     </li>
