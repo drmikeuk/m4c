@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Find a supervisor"
+banner:  "MJPL3449.jpg"
 ---
 
 <h1>Find a supervisor</h1>

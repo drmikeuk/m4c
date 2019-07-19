@@ -1,48 +1,47 @@
 ---
 layout: page
 title: "Home"
+banner:  "MJPL3501.jpg"
 ---
 
-<h1>Home</h1>
+<h1>Midlands 4 Cities</h1>
+
+<div class="row home" markdown="1">
+<div class="col-md-8 homepad" markdown="1">
+
+<p class="strap">Be part of a thriving community of doctoral students producing world-class research in the arts and humanities...</p>
+
+The AHRC-funded Midlands4Cities Doctoral Training Partnership (M4C) brings together eight leading universities across the Midlands to support the professional and personal development of the next generation of arts and humanities doctoral researchers.
+
+We provide:
+
+- Studentship funding and enhanced support for professional training
+- Expert supervision within and across our dynamic mix of university partners
+- Networking and collaboration across the Midlands, nationally and internationally
+- Links to leading cultural organisations and creative economy partners.
 
 
+<h3>Apply</h3>
+We offer two routes for PhD study: Student-led awards where you agree a research proposal with academic supervisors and Collaborative Doctoral Award which are co-designed between an M4C university and an external partner organisation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel ligula sit amet ipsum euismod eleifend ac sit amet ante. Fusce sollicitudin, augue sit amet tempor hendrerit, enim erat sodales diam, a suscipit erat mauris tempor ante. Aenean porta odio a tellus viverra bibendum. Cras sit amet erat eros. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-
-Nam vehicula, mi eu mattis viverra, enim enim ullamcorper nulla, id scelerisque purus diam sed lacus. Quisque viverra magna ornare condimentum fringilla. Curabitur fermentum nisl nisi, et maximus nulla mattis vel. Fusce semper diam sapien, et placerat sapien luctus vel. Integer quis aliquam sapien. Cras ut enim mauris. In in vestibulum lectus. Ut eu porta tortor. Sed ac risus quis libero luctus vulputate vel sed lorem. Praesent eget lacus condimentum metus lacinia maximus vitae et nunc.
-
-
-Full time
-
-* **Year 1**
-  1. A **research statement** of 1500-2000 words indicating the scope of your thesis, and outlining the key research questions, research context and methodology (include details of any key texts, materials or case studies you intend to use). ​
-  2. A 5000-word **example of your written work**  ie a chapter or a section of discursive prose from your thesis, or equivalent output for practice-based Ph​Ds.
-  3. For M4C award holders in year one (or part-time equivalent) requests for **extended funding** can be made where there is a rationale for complex or extended training, skills acquisition, extended archival visits, fieldwork or placement needs. An M4C award can be extended up to a maximum of 6 months full-time or 12 months part-time.
-* **Year 2**
-  1. An updated 1500-word **research statement**. This should build on your first-year statement and provide details of how the research has developed, any changes in scope, content an​d direction.
-  2. _if required_ a 5000-word example of your written work (ie a chapter or a section of discursive prose from your thesis) or equivalent output for practice-based Ph​Ds.
-* **Year 3**
-  1. An updated 1500-word **research statement**. This should build on your first-year statement and provide details of how the research has developed, any changes in scope, content an​d direction.
-  2. _if required_ a 5000-word example of your written work (ie a chapter or a section of discursive prose from your thesis) or equivalent output for practice-based Ph​Ds.
+<a class="btn btn-secondary" href="/m4c/apply.html" role="button">Information &amp; apply <i class="fas fa-chevron-right padl"></i></a>
 
 
-Part time
+<h3>Student Profiles</h3>
+Our student community is distinguished by breadth and diversity in the people and projects that make up M4C. Connecting across the Midlands, our students are part of a dynamic network of postgraduate researchers, with opportunities to collaborate on research and training throughout the doctoral experience.
 
-Part time students will undertake an assessment review in years 2, 4 and 6.   In years 1, 3 and 5 they will be reviewed by their supervisory team using the student mid-year report form.
+<a class="btn btn-secondary" href="/m4c/profiles.html" role="button">View profiles <i class="fas fa-chevron-right padl"></i></a>
 
-* **Year 1**
-  1. Student mid-year report form only
-* **Year 2**
-  1. A **research statement** of 1500-2000 words indicating the scope of your thesis, and outlining the key research questions, research context and methodology (include details of any key texts, materials or case studies you intend to use). ​
-  2. A 5000-word **example of your written work**  ie a chapter or a section of discursive prose from your thesis, or equivalent output for practice-based Ph​Ds.
-  3. For M4C award holders in year one (or part-time equivalent) requests for **extended funding** can be made where there is a rationale for complex or extended training, skills acquisition, extended archival visits, fieldwork or placement needs. An M4C award can be extended up to a maximum of 6 months full-time or 12 months part-time.
-* **Year 3**
-  1. Student mid-year report form only
-* **Year 4**
-  1. An updated 1500-word **research statement**. This should build on your first-year statement and provide details of how the research has developed, any changes in scope, content an​d direction.
-  2. _if required_ a 5000-word example of your written work (ie a chapter or a section of discursive prose from your thesis) or equivalent output for practice-based Ph​Ds.
-* **Year 5**
-  1. Student mid-year report form only
-* **Year 6**
-  1. An updated 1500-word **research statement**. This should build on your first-year statement and provide details of how the research has developed, any changes in scope, content an​d direction.
-  2. _if required_ a 5000-word example of your written work (ie a chapter or a section of discursive prose from your thesis) or equivalent output for practice-based Ph​Ds.
+
+<h3>Partners</h3>
+We work closely with an exciting range of regional, national and international partners to develop placements, specialist training and collaborative projects.
+
+<a class="btn btn-secondary" href="/m4c/partners.html" role="button">View partners <i class="fas fa-chevron-right padl"></i></a>
+
+  </div>
+
+
+  <div class="col-md-4">
+    <a class="twitter-timeline" data-theme="light" data-link-color="#9b1b3a" data-tweet-limit="3" href="https://twitter.com/Midlands4Cities?ref_src=twsrc%5Etfw">Tweets by Midlands4Cities</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</div>

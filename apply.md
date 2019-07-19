@@ -3,7 +3,7 @@ layout: page
 title: "Apply"
 nav: "yes"
 sortTitle: "1"
-banner:  "MJPL3501.jpg"
+banner:  "M4C-97.jpg"
 ---
 
 <h1>Apply</h1>

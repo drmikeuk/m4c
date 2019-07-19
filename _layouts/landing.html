@@ -6,6 +6,10 @@
 {% include header.html %}
 {% include nav.html %}
 
+{% if page.banner %}
+<div class="banner" style="background-image: url(/m4c/assets/{{page.banner}})"> </div>
+{%endif%}
+
 {{ content }}
 
 {% include footer.html %}
