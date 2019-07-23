@@ -26,6 +26,8 @@ The Midlands4Cities eight universities provide doctoral researchers with access 
 
 <div class="col-md-4" markdown="1">
 
+#### The M4C universities
+
 - [University of Birmingham](https://www.birmingham.ac.uk/schools/calgs/scholarships/ahrc-funding.aspx)
 - [Birmingham City University](https://www.bcu.ac.uk/research/midlands4cities)
 - [The University of Warwick](https://warwick.ac.uk/fac/arts/cadre/prospectivestudents/scholarships/m4c/)
@@ -38,13 +40,14 @@ The Midlands4Cities eight universities provide doctoral researchers with access 
 </div>
 </div>
 
+## Departmental websites
 
 Visit the departmental websites at the M4C partner universities for a comprehensive list of M4C supervisors to ensure that you receive the best fit for the successful completion of your PhD research project.
 
 <div class="row" markdown="1">
 <div class="col-md-6" markdown="1">
 
-### University of Birmingham
+#### University of Birmingham
 
 - [School of English, Drama and American & Canadian Studies](https://www.birmingham.ac.uk/schools/edacs/index.aspx)
 - [School of History and Cultures](https://www.birmingham.ac.uk/schools/historycultures/index.aspx)
@@ -55,7 +58,7 @@ Visit the departmental websites at the M4C partner universities for a comprehens
 - [School of Geography, Earth and Environmental Sciences](https://www.birmingham.ac.uk/schools/gees/index.aspx)
 
 
-### Birmingham City University
+#### Birmingham City University
 
 - [Birmingham School of Art](https://www.bcu.ac.uk/art)
 - [Birmingham School of Architecture and Design](https://www.bcu.ac.uk/architecture-and-design)
@@ -70,7 +73,7 @@ Visit the departmental websites at the M4C partner universities for a comprehens
 - [School of Law](https://www.bcu.ac.uk/law/research)
 
 
-### The University of Warwick
+#### The University of Warwick
 - [Classics and Ancient History](https://warwick.ac.uk/fac/arts/classics)
 - [English and Comparative Literary Studies](https://warwick.ac.uk/fac/arts/english)
 - [Film and Television Studies](https://warwick.ac.uk/fac/arts/film)
@@ -87,14 +90,14 @@ Visit the departmental websites at the M4C partner universities for a comprehens
 - [Sociology](https://warwick.ac.uk/fac/soc/sociology)
 
 
-### Coventry University
+#### Coventry University
 
 
 </div>
 
 <div class="col-md-6" markdown="1">
 
-### De Montfort University
+#### De Montfort University
 
 - [Institute of Architecture](https://www.dmu.ac.uk/research/centres-institutes/institute-of-architecture/index.aspx)
 - [Institute of English](https://www.dmu.ac.uk/research/centres-institutes/institute-of-english/index.aspx)
@@ -116,7 +119,7 @@ Visit the departmental websites at the M4C partner universities for a comprehens
 - [Stephen Lawrence Research Centre](https://www.dmu.ac.uk/research/centres-institutes/stephen-lawrence-research-centre/index.aspx)
 
 
-### University of Leicester
+#### University of Leicester
 
 - [Archaeology and Ancient History](https://le.ac.uk/archaeology)
 - [English](https://le.ac.uk/english)
@@ -128,14 +131,14 @@ Visit the departmental websites at the M4C partner universities for a comprehens
 - [Museum Studies](https://le.ac.uk/museum-studies)
 
 
-### Nottingham Trent University
+#### Nottingham Trent University
 
 - [Law](https://www4.ntu.ac.uk/nls/research/index.html)
 - [Art and Design](https://www4.ntu.ac.uk/art/)
 - [Arts and Humanities](https://www.ntu.ac.uk/about-us/staff-directory?school-or-department=School%20of%20Arts%20%26%20Humanities)
 
 
-### University of Nottingham
+#### University of Nottingham
 
 - [English](https://www.nottingham.ac.uk/english/index.aspx)
 - [Geography](https://www.nottingham.ac.uk/geography/index.aspx)
