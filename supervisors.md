@@ -13,32 +13,13 @@ banner:  "MJPL3449.jpg"
 
 Create your supervisory team:
 
-<div class="row" markdown="1">
-<div class="col-md-8" markdown="1">
-
 The Midlands4Cities eight universities provide doctoral researchers with access to exemplary world class expertise and supervisory support across the breadth of the AHRC research areas.
 
 - Your supervisory team should include at least two academic supervisors.
 - You can draw on supervisory expertise from across the eight universities that comprise M4C. This allows you to find the perfect supervisory team for your project either within a single university or across the M4C institutions.
 - Where relevant, your supervisory team may also include a member from a non-university partner organisation, for example from the cultural, creative or heritage sector.
 
-</div>
 
-<div class="col-md-4" markdown="1">
-
-#### The M4C universities
-
-- [University of Birmingham](https://www.birmingham.ac.uk/schools/calgs/scholarships/ahrc-funding.aspx)
-- [Birmingham City University](https://www.bcu.ac.uk/research/midlands4cities)
-- [The University of Warwick](https://warwick.ac.uk/fac/arts/cadre/prospectivestudents/scholarships/m4c/)
-- [Coventry University](https://www.coventry.ac.uk/research/research-opportunities/research-students/midlands4cities/)
-- [De Montfort University](https://www.dmu.ac.uk/research/midlands4cities-dtp/m4c.aspx)
-- [University of Leicester](https://le.ac.uk/study/research-degrees/funded-opportunities/m4c-open-doctoral-award)
-- [Nottingham Trent University](https://www.ntu.ac.uk/research/research-degrees-at-ntu/studentships/midlands3cities-m3c-doctoral-training-partnership)
-- [University of Nottingham](https://www.nottingham.ac.uk/pgstudy/courses/doctoral-training-programmes/midlands4cities-doctoral-training-partnership.aspx)
-
-</div>
-</div>
 
 ## Departmental websites
 
