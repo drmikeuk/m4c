@@ -25,66 +25,58 @@ The AHRC-funded Midlands4Cities Doctoral Training Partnership (M4C) brings toget
 
 ## Funding
 
-FT/PT; 3.5years; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent suscipit tristique mauris, non aliquet ex. Aliquam nec porttitor felis, ut varius urna. Phasellus congue metus sed ullamcorper auctor. Suspendisse potenti. Etiam ut cursus mauris, et porta lorem. Nulla ultrices lectus nec lorem congue auctor in sed ante.
+Midlands4Cities will fund and support outstanding research for 460 UK and EU PhD research students between 2019 and 2024 through our Open Doctoral and Collaborative Doctoral Awards.
 
 A full-time studentship award consists of three parts:
 
-- Payment of approved fees (as set and agreed by UK Research and Innovation), currently £4,260 p.a. for 2018/19.
-- Maintenance grant (or stipend) for the student, currently £14,777p.a. for 2018 entry.
-- Research Training Support Grant (RTSG) which supports UK/ overseas fieldwork and attendance at conferences (by application for current PhD students).
-
-[Collaborative Doctoral Award](/m4c/projects.html) holders will receive an additional £500 per annum to facilitate partnership working.
-
-Plus we provide the opportunity to bid for additional funding to support your research & professional development (SDF, CDF). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent suscipit tristique mauris, non aliquet ex. Aliquam nec porttitor felis.
-
+- 3.5 years funding for an Open Doctoral Award and for 4 years funding for a Collaborative Doctoral Award.
+Payment of approved fees for UK and EU applicants of £4,237 per annum for 2019 entry as set and agreed by UK Research and Innovation (UKRI)
+- A maintenance grant (or stipend) of £15,009 per annum for 2019 entry for UK applicants (pro-rata for part-time study).  Where institutional funds allow, M4C may be able to offer a maintenance grant to EU applicants.
+- Additional funding opportunities which include a Research Development Fund to support primary research activities, an Engagement Fund to enable students to undertake placements and other professional development activity and a Cohort Development Fund which supports groups of M4C students to design training, development and research activities.
 
 
 ## Expert supervision
 
-You can draw on supervisory expertise from across the eight universities that comprise M4C. This allows you to find the perfect supervisory team for your project either within a single university or across the M4C institutions.
+Applicants for an Open Doctoral Award can draw on supervisory expertise within and across the dynamic mix of the eight university partners which comprise Midlands4Cities. This allows you to find the perfect supervisory team for your project either within a single university or across the M4C institutions.
 
-Your supervisory team should include at least two academic supervisors. Where relevant, your supervisory team may also include a member from a non-university partner organisation, for example from the cultural, creative or heritage sector.
+The Midlands4Cities eight universities provide doctoral researchers with access to exemplary world class expertise and supervisory support across the breadth of the AHRC research areas.  Where relevant, your supervisory team may also include a member from a non-university partner organisation, for example from the cultural, creative or heritage sector.
 
 
-[Collaborative Doctoral Awards](/m4c/projects.html) (CDAs) are co-designed between an M4C university and an external partner organisation. CDAs offer a project with established research aims, responding to particular needs in the cultural, creative and heritage sectors. The supervisory teams are pre-established and are made up of academics from a Midlands4Cities university and a member of the external partner organisation.
+Applicants for a [Collaborative Doctoral Award](/m4c/projects.html) access a PhD research project which has been jointly developed by a Midlands4cities academic and a non-University partner.  Collaborative Doctoral Awards offer:
+
+- Research relevant to an organisation’s priorities and objectives
+- A project which is based on a truly collaborative approach
+- Access to training, facilities and expertise not available in an academic setting alone
+- The opportunity to develop a range of valuable skills and significantly enhance future employability.
+
 
 
 ## Placements
 
-We work closely with an exciting range of [regional, national and international partners](/m4c/partners.html) to develop placements, specialist training and collaborative projects.
+Midlands4Cities has an extensive range of [regional and national partners](/m4c/partners.html) who provide training and placement opportunities for our students.  A placement is an excellent opportunity for personal and professional development, when you can develop skills, demonstrate the impact of your research expertise outside academia and gain additional experience to add to your CV.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent suscipit tristique mauris, non aliquet ex. Aliquam nec porttitor felis, ut varius urna. Phasellus congue metus sed ullamcorper auctor. Suspendisse potenti. Etiam ut cursus mauris, et porta lorem. Nulla ultrices lectus nec lorem congue auctor in sed ante.
+During the period of your PhD research you will have the opportunity to develop a placement for up to six months with one of the many organisations Midlands4cities currently work with, or we will support you to develop a placement with an organisation which is part of your research network.  A placement will provide access to new resources, contact and expertise, for example you could be based in a museum, gallery, studio, archive, heritage organisation or specialist laboratory.
 
 
 
 ## Training:
 
-We provide an extensive range of training opportunities to
+Midlands4Cities provides a strong collaborative research training environment by combining the best elements of each for the Midlands4Cities institution’s postgraduate training offer with an extensive customised cohort development programme of research and employability training.
 
-- equip you with the skills necessary for academic success
-- provide access to training and professional development opportunities that will enable you to fully engage with the broadest possible range of employment opportunities
+_‘The AHRC wishes to promote, not only subject-specific development, enabling students to become experts in their field, but also wider skills that provide students with the capability to pursue successful careers both within and outside academia’_
+AHRC Research Training Framework for Doctoral Students
 
-Plus, regardless of your home university, you will have opportunities to access training offered by Graduate Schools and Doctoral Colleges across the Partnership, and apply for courses distinctive to our eight partner universities.
-
-Additionally the **Midlands Arts Programme** provides a customised programme of research and employability training that enables you to explore what it means to be an arts and humanities researcher in the twenty-first century. This includes events that:
-
-- develop skills
-- deepen research networks
-- path-find professional careers
-- offer ‘routes-out’ training support for M4C Fellows after submission of the PhD thesis.
+The Midlands4Cities ethos of ‘Quality Thesis Plus’ enables all students to gain arts and humanities skills, explore interdisciplinary methods, discover research networks, and path-find professional careers via the Midlands Arts Programme (MAP).  This includes writing workshops with the Royal Literary Fund and Policy Engagement and Impact training with the Institute for Government.
 
 
 ## Virtual Postgraduate Platform (VPP)
 
-The Virtual Postgraduate Platform (VPP) is a digital online hub specifically designed for Midlands4Cities doctoral researchers and supervisors. It provides a shared point of access for:
+To build and support the Midlands4Cities community we have a digital online platform - Virtual Postgraduate Platform (VPP). This is a single online space for M4C Doctoral Researchers and Supervisors provides a shared point of access for:
 
-- training
-- resources
-- cohort activities
-- professional development opportunities
-- cross-institutional community-building
-
-The VPP allows students and supervisors to share documentation, and for M4C students to network, communicate and present their research interests and activity through a searchable student profile space.
+- Student resources, help and guidance
+- Shared student/supervisor space  
+- The facility to catalyse cohort activities and training
+- Develop cross-institutional community-building
 
 
 ## Next steps
