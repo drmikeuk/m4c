@@ -22,6 +22,18 @@ We provide:
 - Midlands Arts Programme (MAP), extensive range of training opportunities
 
 <div class="row">
+<div class="col-lg-6">
+  <div class="card">
+    <img src="/m4c/assets/How-to-apply-to-the-M4C-Cropped-340x150.jpg" class="card-img-top" alt="thumbnail">
+    <div class="card-body">
+      <h4 class="card-title">Our offer</h4>
+      <p class="card-text">As an M4C student, you will have access to studentship funding, expert supervision, placements with an exciting range of regional, national and international partners and an extensive range of training opportunities.</p>
+    </div>
+    <div class="card-footer">
+      <a class="btn btn-secondary" href="/m4c/offer.html" role="button">About our offer <i class="fas fa-chevron-right padl"></i></a>
+    </div>
+  </div>
+</div>
   <div class="col-lg-6">
     <div class="card">
       <img src="/m4c/assets/M4C-offer-Cropped-340x150.jpg" class="card-img-top" alt="thumbnail">
@@ -34,21 +46,22 @@ We provide:
       </div>
     </div>
   </div>
-  <div class="col-lg-6">
-    <div class="card">
-      <img src="/m4c/assets/Doctoral-Routes-Cropped-339x150.jpg" class="card-img-top" alt="thumbnail">
-      <div class="card-body">
-        <h4 class="card-title">Student Profiles</h4>
-        <p class="card-text">Our student community is distinguished by breadth and diversity in the people and projects that make up M4C. Connecting across the Midlands, our students are part of a dynamic network of  researchers, with opportunities to collaborate on research and training.</p>
-      </div>
-      <div class="card-footer">
-        <a class="btn btn-secondary" href="/m4c/profiles.html" role="button">View profiles <i class="fas fa-chevron-right padl"></i></a>
-      </div>
-    </div>
-  </div>
+
 </div>
 
 <div class="row">
+<div class="col-lg-6">
+  <div class="card">
+    <img src="/m4c/assets/Doctoral-Routes-Cropped-339x150.jpg" class="card-img-top" alt="thumbnail">
+    <div class="card-body">
+      <h4 class="card-title">Student Profiles</h4>
+      <p class="card-text">Our student community is distinguished by breadth and diversity in the people and projects that make up M4C. Connecting across the Midlands, our students are part of a dynamic network of  researchers, with opportunities to collaborate on research and training.</p>
+    </div>
+    <div class="card-footer">
+      <a class="btn btn-secondary" href="/m4c/profiles.html" role="button">View profiles <i class="fas fa-chevron-right padl"></i></a>
+    </div>
+  </div>
+</div>
   <div class="col-lg-6">
     <div class="card">
       <img src="/m4c/assets/about-us-Cropped-341x150.gif" class="card-img-top" alt="thumbnail">
@@ -58,18 +71,6 @@ We provide:
       </div>
       <div class="card-footer">
         <a class="btn btn-secondary" href="/m4c/partners.html" role="button">View partners <i class="fas fa-chevron-right padl"></i></a>
-      </div>
-    </div>
-  </div>
-  <div class="col-lg-6">
-    <div class="card">
-      <img src="/m4c/assets/How-to-apply-to-the-M4C-Cropped-340x150.jpg" class="card-img-top" alt="thumbnail">
-      <div class="card-body">
-        <h4 class="card-title">Midlands Arts Programme</h4>
-        <p class="card-text">As an M4C student, you will have access to the Midlands Arts Programme, a customised programme of research and employability training that enables you to explore what it means to be an arts and humanities researcher in the twenty-first century.</p>
-      </div>
-      <div class="card-footer">
-        <a class="btn btn-secondary" href="/m4c/news.html" role="button">View News and events <i class="fas fa-chevron-right padl"></i></a>
       </div>
     </div>
   </div>
