@@ -2,7 +2,7 @@
 /* m4c red: #9b1b3a  dark grey: #434344 */
 body    {background: #fcfcfc}  /* kbase: #F7F8F9; f8f9fa*/
 .header {padding: 30px 0; min-height: 110px}
-.banner { background-size: cover; height: 120px; margin-top: -32px; margin-bottom: 12px}
+.banner { background-size: cover; background-position: center center; height: 120px; margin-top: -32px; margin-bottom: 12px}
 .ahrc   {margin-top: -20px}
 .footer {background: #ccc; padding: 3em 0 2em; min-height: 450px; margin-top: 2em}
 
@@ -67,6 +67,15 @@ h2                  {margin-top: 1em}
 .strap              {font-size: 150%; font-style: italic; font-weight: 300; line-height: 1.2em;}
 .home h3            {padding-top: 1.5em}
 
+.hero h2           {margin-top: 6px}
+.bg                {background-size: cover; }
+.bg1               {background-image: url("/m4c/assets/MJPL3262.jpg"); }
+.bg2               {background-image: url("/m4c/assets/MJPL3449.jpg"); }
+.bg3               {background-image: url("/m4c/assets/MJPL3501.jpg"); }
+.bg4               {background-image: url("/m4c/assets/MJPL3591.jpg"); }
+.bg5               {background-image: url("/m4c/assets/M4C-97.jpg"); }
+
+h2.news            {margin-top:0; font-size: 1.6rem; font-weight: 200; font-style: italic; margin-bottom: 1em;}
 
 
 /* TIMELINE */
@@ -190,6 +199,7 @@ h2                  {margin-top: 1em}
 .tab-content     {padding-top: 1em}
 .notes li        {font-size: 22px; padding-bottom: 8px}
 .notes li li     {font-size: 16px}
+
 
 
 

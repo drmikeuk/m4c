@@ -1,0 +1,67 @@
+---
+layout: landing
+title: "News & events"
+nav: "yes"
+sortTitle: "5"
+banner: MJPL3262.jpg
+customjs:
+  - /vendor/isotope.pkgd.min.js
+  - /assets/news.isotope.js
+---
+
+<div class="container-fluid">
+
+  <h1>News & events</h1>
+  <!-- dont need an into <p>We work closely with an exciting range of regional, national and international partners to develop placements, specialist training and collaborative projects.</p> -->
+
+  <!-- Filters etc -->
+  <div class="row padrow">
+
+    <input type="text" class="quicksearch" placeholder="Search..." />
+
+    <div class="filters">
+
+      <!-- Locations: Birmingham, Coventry, Leicester, London, Nottingham, Other -->
+      <div class="btn-group filter-button-group flex-wrap" data-filter-group="label" aria-label="Filter by category">
+        <button type="button" class="btn btn-primary" data-filter="*">All</button>
+        <button type="button" class="btn " data-filter=".News">News</button>
+        <button type="button" class="btn " data-filter=".Events">Events</button>
+        <button type="button" class="btn " data-filter=".Placements">Placements</button>
+      </div>
+
+    </div> <!-- end filters -->
+
+    <!-- Count
+    <div class="filter-count"></div> -->
+
+  </div>
+
+
+
+  <!-- CARDS -->
+  <div class="grid clearfix">
+
+  <!--  Cards2: from CSV file  <i class="fas fa-external-link-alt"></i>  -->
+  {% for card in site.data.news %}
+    <div class="card {{ card.filter }} ">
+      <img src="{{card.thumb | prepend: "/m4c/assets/" }}" class="card-img-top" alt="thumbnail">
+      <div class="card-body">
+        <h4 class="card-title">{{ card.name }}</h4>
+{% if card.date %}
+        <p class="category">{{ card.date }}</p>
+{% endif %}
+        <p class="card-text">{{ card.description }}</p>
+
+      </div>
+      <div class="card-footer">
+        <a href='{{ card.url | prepend: "/m4c/" }}' class="btn btn-secondary">View details <i class="fas fa-chevron-right padl"></i></a>
+      </div>
+    </div>
+  {% endfor %}
+
+
+  </div> <!-- end grid -->
+
+
+
+</div>
