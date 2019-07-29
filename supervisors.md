@@ -73,6 +73,10 @@ Visit the departmental websites at the M4C partner universities for a comprehens
 
 #### Coventry University
 
+- [School of Humanities](https://www.coventry.ac.uk/study-at-coventry/faculties-and-schools/arts-and-humanities/humanities/research/)
+- [School of Art and Design](https://www.coventry.ac.uk/study-at-coventry/faculties-and-schools/arts-and-humanities/)
+- [School of Media and Performing Arts](https://www.coventry.ac.uk/study-at-coventry/faculties-and-schools/arts-and-humanities/media-and-performing-arts/) 
+
 
 </div>
 
