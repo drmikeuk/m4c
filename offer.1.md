@@ -1,67 +1,46 @@
 ---
 layout: page
 title: "Our offer"
-nav: "yes"
+nav: "no"
 sortTitle: "0.5"
 banner:  "MJPL3591.jpg"
 ---
 
 <h1>Our offer</h1>
 
+<div class="row home" markdown="1"> <!-- main row -->
+<div class="col-md-8 homepad homegrid" markdown="1"> <!-- LH col -->
+
 <p class="strap">Be part of a thriving community of doctoral students...</p>
 
 The AHRC-funded Midlands4Cities Doctoral Training Partnership (M4C) brings together eight leading universities across the Midlands to support the professional and personal development of the next generation of arts and humanities doctoral researchers.
 
 
-<div class="row" markdown="1">
-<div class="col-md-12" markdown="1">
-## Funding
-</div>
-</div>
+<!--
+<img src="/m4c/assets/How-to-apply-to-the-M4C-Cropped-340x150.jpg" class="" alt="thumbnail">
+<img src="/m4c/assets/M4C-offer-Cropped-340x150.jpg" class="" alt="thumbnail">
+<img src="/m4c/assets/Doctoral-Routes-Cropped-339x150.jpg" class="card-img-top" alt="thumbnail">
+<img src="/m4c/assets/about-us-Cropped-341x150.gif" class="card-img-top" alt="thumbnail">
+-->
 
-<div class="row cols" markdown="1">
-<div class="col-md-6" markdown="1">
+## Funding
+
 Midlands4Cities will fund and support outstanding research for 460 UK and EU PhD research students between 2019 and 2024 through our Open Doctoral and Collaborative Doctoral Awards.
 
 A full-time studentship award consists of three parts:
 
 - 3.5 years funding for an Open Doctoral Award and for 4 years funding for a Collaborative Doctoral Award.
 Payment of approved fees for UK and EU applicants of £4,237 per annum for 2019 entry as set and agreed by UK Research and Innovation (UKRI)
-</div>
-<div class="col-md-6" markdown="1">
 - A maintenance grant (or stipend) of £15,009 per annum for 2019 entry for UK applicants (pro-rata for part-time study).  Where institutional funds allow, M4C may be able to offer a maintenance grant to EU applicants.
 - Additional funding opportunities which include a Research Development Fund to support primary research activities, an Engagement Fund to enable students to undertake placements and other professional development activity and a Cohort Development Fund which supports groups of M4C students to design training, development and research activities.
-</div>
-</div>
 
 
-<div class="row">
-<div class="col-md-4 bg" style="background-image: url('/m4c/assets/Uzor.jpg');">
-</div>
-<div class="col-md-8">
-<div class="quote">I was awarded M4C money to go to The University of the West Indies in Jamaica. This was an amazing experience that allowed me disseminate my research on an international stage and network with key scholars and practitioners specialising in Caribbean dance.<br/>
-<span class="quotesource">-- Tia-Monique Uzor</span></div>
-
-</div>
-</div>
-
-
-
-
-<div class="row heading" markdown="1">
-<div class="col-md-12" markdown="1">
 ## Expert supervision
-</div>
-</div>
 
-<div class="row cols" markdown="1">
-<div class="col-md-6" markdown="1">
 Applicants for an Open Doctoral Award can draw on supervisory expertise within and across the dynamic mix of the eight university partners which comprise Midlands4Cities. This allows you to find the perfect supervisory team for your project either within a single university or across the M4C institutions.
 
 The Midlands4Cities eight universities provide doctoral researchers with access to exemplary world class expertise and supervisory support across the breadth of the AHRC research areas.  Where relevant, your supervisory team may also include a member from a non-university partner organisation, for example from the cultural, creative or heritage sector.
 
-</div>
-<div class="col-md-6" markdown="1">
 
 Applicants for a [Collaborative Doctoral Award](/m4c/projects.html) access a PhD research project which has been jointly developed by a Midlands4cities academic and a non-University partner.  Collaborative Doctoral Awards offer:
 
@@ -69,78 +48,25 @@ Applicants for a [Collaborative Doctoral Award](/m4c/projects.html) access a PhD
 - A project which is based on a truly collaborative approach
 - Access to training, facilities and expertise not available in an academic setting alone
 - The opportunity to develop a range of valuable skills and significantly enhance future employability.
-</div>
-</div>
-
-<div class="row">
-<div class="col-md-4 bg" style="background-image: url('/m4c/assets/digitalartssummer.jpg');">
-</div>
-<div class="col-md-8">
-<div class="quote">The Digital Arts and Humanities Summer School was really about being ambitious. We wanted to not only see how diverse a group of new skills we could make available to PhD students, but also how impactful it could be in the long-term.</div>
-</div>
-</div>
 
 
 
-
-<div class="row heading" markdown="1">
-<div class="col-md-12" markdown="1">
 ## Placements
-</div>
-</div>
 
-<div class="row cols" markdown="1">
-<div class="col-md-6" markdown="1">
 Midlands4Cities has an extensive range of [regional and national partners](/m4c/partners.html) who provide training and placement opportunities for our students.  A placement is an excellent opportunity for personal and professional development, when you can develop skills, demonstrate the impact of your research expertise outside academia and gain additional experience to add to your CV.
 
-</div>
-<div class="col-md-6" markdown="1">
-
 During the period of your PhD research you will have the opportunity to develop a placement for up to six months with one of the many organisations Midlands4cities currently work with, or we will support you to develop a placement with an organisation which is part of your research network.  A placement will provide access to new resources, contact and expertise, for example you could be based in a museum, gallery, studio, archive, heritage organisation or specialist laboratory.
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-md-4 bg" style="background-image: url('/m4c/assets/jtoj.jpg');">
-</div>
-<div class="col-md-8">
-<div class="quote">Working on Journey to Justice: Nottingham was an amazing experience. I learnt a lot during my time as postgraduate project lead and developed a range of skills that will prove invaluable in years to come.</div>
-</div>
-</div>
 
 
 
+## Training:
 
-<div class="row heading" markdown="1">
-<div class="col-md-12" markdown="1">
-## Training
-</div>
-</div>
-
-<div class="row cols" markdown="1">
-<div class="col-md-6" markdown="1">
 Midlands4Cities provides a strong collaborative research training environment by combining the best elements of each for the Midlands4Cities institution’s postgraduate training offer with an extensive customised cohort development programme of research and employability training.
 
-</div>
-<div class="col-md-6" markdown="1">
+_‘The AHRC wishes to promote, not only subject-specific development, enabling students to become experts in their field, but also wider skills that provide students with the capability to pursue successful careers both within and outside academia’_
+AHRC Research Training Framework for Doctoral Students
 
 The Midlands4Cities ethos of ‘Quality Thesis Plus’ enables all students to gain arts and humanities skills, explore interdisciplinary methods, discover research networks, and path-find professional careers via the Midlands Arts Programme (MAP).  This includes writing workshops with the Royal Literary Fund and Policy Engagement and Impact training with the Institute for Government.
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-md-4 bg" style="background-image: url('/m4c/assets/MJPL3270.jpg');">
-</div>
-<div class="col-md-8">
-<div class="quote">Tina & Anna's one-on-one advice and immersive training helped me overcome a long-lasting writing block, I have taken a different approach to writing and feel more in control and able to think creatively.</div>
-</div>
-</div>
-
-
-
-
 
 
 ## Virtual Postgraduate Platform (VPP)
@@ -163,3 +89,15 @@ We offer two routes for PhD study:
 
 
 <a class="btn btn-secondary" href="/m4c/apply.html" role="button">Information &amp; apply <i class="fas fa-chevron-right padl"></i></a>
+
+
+
+
+</div> <!-- end LH col -->
+
+
+<div class="col-md-4"> <!-- RH col -->
+  <a class="twitter-timeline" data-theme="light" data-link-color="#9b1b3a" data-tweet-limit="3" href="https://twitter.com/Midlands4Cities?ref_src=twsrc%5Etfw">Tweets by Midlands4Cities</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div> <!-- end RH col -->
+
+</div> <!-- end main row -->

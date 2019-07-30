@@ -68,7 +68,7 @@ h2                  {margin-top: 1em}
 .home h3            {padding-top: 1.5em}
 
 .hero h2           {margin-top: 6px}
-.bg                {background-size: cover; }
+.bg                {background-size: cover; min-height: 12rem}
 .bg1               {background-image: url("/m4c/assets/MJPL3262.jpg"); }
 .bg2               {background-image: url("/m4c/assets/MJPL3449.jpg"); }
 .bg3               {background-image: url("/m4c/assets/MJPL3501.jpg"); }
@@ -76,6 +76,12 @@ h2                  {margin-top: 1em}
 .bg5               {background-image: url("/m4c/assets/M4C-97.jpg"); }
 
 h2.news            {margin-top:0; font-size: 1.6rem; font-weight: 200; font-style: italic; margin-bottom: 1em;}
+
+/* offer */
+.cols              {margin-top: 1em;}
+.cols h2           {margin-top:0; }
+.quote             {border-bottom: 1px solid #ccc; padding: 1em; margin: 0; width: 100%; font-size: 1.3em; font-style: italic; font-weight: 300; color: #999; position: relative;}
+.quotesource      {font-size: 0.9em; font-style: normal;}
 
 
 /* TIMELINE */
@@ -212,6 +218,15 @@ h2.news            {margin-top:0; font-size: 1.6rem; font-weight: 200; font-styl
   .msg span        {display: inline}
 
   .homepad         {padding-right: 40px;}
+
+
+  /* offer */
+  .heading           {margin-top: 3em;}
+  .cols              {margin-top: 1em;}
+  .cols h2           {margin-top:0; }
+  .quote             {border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; padding: 2em 2em 2em 4em; margin: 1em; width: 100%; font-size: 1.3em; font-style: italic; font-weight: 300; color: #999; position: relative;}
+  .quote::before    {font-family: 'Font Awesome 5 Free'; font-weight: 900; content: '\f10d'; /*quote left icon*/; font-size: 3rem; color: #ddd; font-style: normal; position: absolute; top: 15px; left: 12px;}
+  .quotesource      {font-size: 0.9em; font-style: normal;}
 }
 
 
