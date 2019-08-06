@@ -69,7 +69,7 @@ h2                  {margin-top: 1em}
 .home h3            {padding-top: 1.5em}
 
 .hero h2           {margin-top: 6px}
-.bg                {background-size: cover; min-height: 12rem}
+.bg                {background-size: cover; min-height: 12rem; background-position: center center /*new*/}
 .bg1               {background-image: url("/m4c/assets/MJPL3262.jpg"); }
 .bg2               {background-image: url("/m4c/assets/MJPL3449.jpg"); }
 .bg3               {background-image: url("/m4c/assets/MJPL3501.jpg"); }
