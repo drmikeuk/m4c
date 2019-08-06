@@ -45,10 +45,11 @@ i.padr                {padding-right: 1em}
 i.padl                {padding-left: 1em}
 
 .btn-secondary        {background: #434344; padding-right: 1em; padding-left: 1em}
-.btn-secondary:hover  {background: #9A1B3A;  color: white}
+.btn-secondary:hover  {background: #9A1B3A; border-color: #9A1B3A /*new*/; color: white}
 .btn-secondary a      {color: white !important}
 
 .btn-primary          {background: #9A1B3A; padding-right: 1em; padding-left: 1em}
+.btn-primary:hover    {background: #434344 /*new*/; border-color: #434344 /*new*/}
 .btn-right            {margin-right: 2rem}
 
 .card-footer .btn     {padding: .375rem 1.5rem;}
