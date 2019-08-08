@@ -90,9 +90,10 @@ h2.news            {margin-top:0; font-size: 1.6rem; font-weight: 200; font-styl
 /* PROFILES */
 .profile .main h2       {margin-top: 0}
 .smalllabel             {color: #5D6D7E; font-size: 0.8rem; margin-bottom: 6px;}
+.profilestrap           {margin-bottom: 1.5em}
 
 .sidebar ul             {list-style: none; padding: 0}
-.profile .rounded-circle {margin-top: -20%; margin-bottom: 1rem; max-width: 30%}
+.profile .rounded-circle {margin-top: -15%; margin-bottom: 1rem; max-width: 30%}
 
 
 
@@ -242,7 +243,7 @@ h2.news            {margin-top:0; font-size: 1.6rem; font-weight: 200; font-styl
   .quotesource      {font-size: 0.9em; font-style: normal;}
 
   /* profiles */
-  .profile .rounded-circle {margin-top: -20%; margin-bottom: 1rem; max-width: 90%}
+  .profile .rounded-circle {margin-top: -40%; margin-bottom: 1rem; max-width: 90%}
 }
 
 @media (min-width: 992px) {
@@ -250,7 +251,7 @@ h2.news            {margin-top:0; font-size: 1.6rem; font-weight: 200; font-styl
   .navbar-expand-md .navbar-nav .nav-item  {padding-right: 1rem /*new*/; }
 
   /* profiles */
-  .profile .rounded-circle {margin-top: -25%; margin-bottom: 2rem; max-width: 60%}
+  .profile .rounded-circle {margin-top: -30%; margin-bottom: 2rem; max-width: 60%}
 }
 
 @media (min-width: 1200px) {
