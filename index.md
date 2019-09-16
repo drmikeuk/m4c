@@ -80,7 +80,7 @@ We provide:
 
 
 <div class="col-md-4"> <!-- RH col -->
-  <a class="twitter-timeline" data-theme="light" data-link-color="#9b1b3a" data-tweet-limit="2" href="https://twitter.com/Midlands4Cities?ref_src=twsrc%5Etfw">Tweets by Midlands4Cities</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a class="twitter-timeline" data-theme="light" data-link-color="#9b1b3a" data-tweet-limit="3" href="https://twitter.com/Midlands4Cities?ref_src=twsrc%5Etfw">Tweets by Midlands4Cities</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div> <!-- end RH col -->
 
 </div> <!-- end main row -->

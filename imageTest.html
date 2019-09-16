@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>ImageTest</title>
+  <style type="text/css">
+    body                {font-family: Helvetica Neue,Helvetica,Arial,sans-serif; font-weight: 400; font-size: 16px}
+    p                   {margin-bottom: 3px}
+    .target             {border: 1px solid #ccc; object-fit: cover;}
+    .pageLaptop         {width: 1400px; height: 200px}
+    .pageiPad           {width: 768px; height: 200px}
+    .pagePhone          {width: 375px; height: 120px}
+    .cardLaptop         {width: 350px; height: 130px}
+    .cardiPad           {width: 322px; height: 130px}
+    .cardPhone          {width: 375px; height: 130px}
+
+    .float              {float: left; padding-right: 2em}
+    .clear::before       { content: ""; clear: both; display: table;}
+  </style>
+</head>
+<body>
+  <h1>ImageTest</h1>
+  <input type="file" accept="image/*" onchange="loadFile(event)">
+
+  <h2>Banner on page</h2>
+  <div>
+    <p>Laptop:</p>
+    <img id="1" class="target pageLaptop"/>
+  </div>
+
+  <div class="float">
+    <p>iPad:</p>
+    <img id="2" class="target pageiPad"/>
+  </div>
+
+  <div class="float">
+    <p>Phone:</p>
+    <img id="3" class="target pagePhone"/>
+  </div>
+
+
+  <br class="clear"/>
+  <h2 style="padding-top: 2em; clear: both; display: table;">Cards</h2>
+  <div class="float">
+    <p>Laptop:</p>
+    <img id="4" class="target cardLaptop"/>
+  </div>
+
+  <div class="float">
+    <p>iPad:</p>
+    <img id="5" class="target cardiPad"/>
+  </div>
+
+  <div class="float">
+    <p>Phone:</p>
+    <img id="6" class="target cardPhone"/>
+  </div>
+
+<script>
+  var loadFile = function(event) {
+    targets = [1,2,3,4,5,6];
+
+    targets.forEach(function(target) {
+      var output = document.getElementById(target);
+      output.src = URL.createObjectURL(event.target.files[0]);
+    });
+  };
+</script>
+</body>
