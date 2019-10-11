@@ -2,7 +2,7 @@
 title: "M4C"
 baseurl: "/m4c" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
-port: 			  4001
+port: 			  4109
 
 # Build settings
 #markdown: kramdown
